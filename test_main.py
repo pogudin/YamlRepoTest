@@ -1,4 +1,4 @@
-from goodhello import hello, bye, greet
+from goodhello import hello, bye
 
 def test_hello_returns_none():
     assert hello() is None
